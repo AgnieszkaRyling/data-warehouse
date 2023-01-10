@@ -1,0 +1,42 @@
+@use "variables";
+
+.section-demo {
+  width: 1117px;
+}
+
+@media (min-width: 767px) and (max-width: 1200px) {
+  .section-demo {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .section-demo {
+    width: 100%;
+  }
+}
+
+.demo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (min-width: 767px) and (max-width: 1200px) {
+  .demo-container {
+    padding: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .demo-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.demo-buttons-box {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}

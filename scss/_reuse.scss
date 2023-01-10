@@ -1,0 +1,40 @@
+@use "variables";
+.not-like-button {
+  background-color: transparent;
+  border: none;
+}
+
+.mb-M {
+  margin-bottom: 30px;
+}
+
+.mb-XL {
+  margin-bottom: 50px;
+}
+
+.mb-XXL {
+  margin-bottom: 80px;
+}
+
+.button-hidden {
+  background-color: transparent;
+  border: 0;
+}
+
+.btn-white {
+  background-color: #fff;
+  border: none;
+  box-shadow: 8px 8px 24px -9px rgba(66, 68, 90, 1);
+}
+
+.btn-pink {
+  color: #fff;
+  background-color: variables.$pink;
+  border: none;
+}
+
+.btn-violet {
+  color: #fff;
+  background-color: variables.$violet;
+  border: none;
+}

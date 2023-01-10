@@ -1,0 +1,6 @@
+slider-gallery:
+1.https://img.freepik.com/free-photo/isolated-closeup-shot-long-haired-calico-cat-winking-camera-with-tongue-out_181624-46161.jpg?w=1380&t=st=1672920555~exp=1672921155~hmac=2d6c31ead0cec87d88435083aa9c54993503354d3a18e2adab51f944a41f4c33
+2.https://img.freepik.com/free-photo/red-white-cat-i-white-studio_155003-13189.jpg?w=740&t=st=1672920626~exp=1672921226~hmac=0899f3d4d5d74ceaf60080d33b4b22107d66167efb6d24fed02691035c193906
+3. https://img.freepik.com/free-photo/cat-lying_1160-435.jpg?w=1060&t=st=1672920688~exp=1672921288~hmac=f63e5cf118f1b1a0c593199cab1eacd3ae18dec1b32af0f184944735aa1b9a69
+4.https://img.freepik.com/free-photo/closeup-shot-disabled-white-cat-white_181624-40496.jpg?w=1060&t=st=1672920885~exp=1672921485~hmac=ec81c7a72843c59fbbfab6dccabc5f320bb90501a4f52048839828c06b3be7b6
+5.https://img.freepik.com/free-photo/grey-cat_1339-516.jpg?w=1060&t=st=1672920990~exp=1672921590~hmac=4d6bd02a5b7c7016380f404539ff301e030182b5a79bf6c18b797cce0256b50b
