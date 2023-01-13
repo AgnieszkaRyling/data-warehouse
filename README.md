@@ -5,5 +5,4 @@
 #JS;
 #scss;
 #demo:storage-house.a-portfolio.pl;
-#in-progress;
 #based on: https://www.figma.com/file/3QYe413SHr9nD7dEM6TGvn/SLAB-SHOT-Datawarehouse-Freebie/duplicate?node-id=0%3A1
