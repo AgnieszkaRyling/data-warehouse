@@ -7,7 +7,7 @@
 .gallery-container {
   width: 1117px;
   height: 709px;
-  background-color: variables.$violet;
+  background-color: #9c69e2;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -24,7 +24,8 @@
 @media (max-width: 768px) {
   .gallery-container {
     width: 100%;
-    padding: 30px;
+    align-items: center;
+    padding: 30px 10px;
   }
 }
 
@@ -44,14 +45,13 @@
   width: 645px;
   height: 330px;
   border-radius: 30px;
-  box-shadow: 8px 8px 24px -9px rgba(66, 68, 90, 1);
+  box-shadow: 8px 8px 24px -9px rgb(66, 68, 90);
   overflow: hidden;
 }
 
 @media (max-width: 768px) {
   .carousel-container {
-    width: 400px;
-    height: 400px;
+    width: 100%;
   }
 }
 
@@ -59,6 +59,12 @@
   width: 600px;
   height: 600px;
   display: flex;
+}
+
+@media (max-width: 768px) {
+  .carousel-slide {
+    width: 100%;
+  }
 }
 
 .slide-item {
@@ -73,7 +79,7 @@
 
 @media (max-width: 768px) {
   .slide-item {
-    width: 400px;
+    width: 100%;
   }
 }
 
@@ -89,6 +95,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 10px;
   }
 }
 
@@ -98,7 +105,7 @@
 }
 
 .testimonials-text-box {
-  width: 385px;
+  max-width: 385px;
   align-self: center;
 }
 
@@ -109,12 +116,13 @@
 }
 
 .carousel-buttons-box {
-  text-align: right;
+  max-width: 645px;
+  display: flex;
+  justify-content: space-between;
 }
 
 @media (max-width: 768px) {
   .carousel-buttons-box {
-    width: 400px;
     display: flex;
     justify-content: space-between;
   }
